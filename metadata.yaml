@@ -1,0 +1,46 @@
+_repo: The-Works-of-Henry-Fielding-Edited-by-George-Saintsbury-in-12-Volumes-Volume-12_6828
+contributor:
+  creator:
+    editor:
+      agent_name: Saintsbury, George
+      alias: Saintsbury, George Edward Bateman
+      birthdate: 1845
+      deathdate: 1933
+      gutenberg_agent_id: '4608'
+      url: http://www.gutenberg.org/2009/agents/4608
+      wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+creator:
+  author:
+    agent_name: Fielding, Henry
+    aliases:
+    - Gualterus, Petrus
+    - Trottplaid, John
+    - Drawcansir, Alexander, Sir
+    - Vinegar, Hercules
+    - Keyber, Conny
+    birthdate: 1707
+    deathdate: 1754
+    gutenberg_agent_id: '537'
+    url: http://www.gutenberg.org/2009/agents/537
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Fielding
+description: ''
+gutenberg_bookshelf: Banned Books from Anne Haight's list
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6828'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- 18th century'
+- !lcc 'PR'
+tableOfContents: "Miscellanies, Part 2\r\n  The Author's Farce, Acts I. And II.\r\n\
+  \  The Tragedy of Tragedies; or, The Life And Death\r\n    of Tom Thumb The Great\r\
+  \n  Pasquin; A Dramatic Satire On The Times\r\n  An Essay On Conversation\r\n  The\
+  \ True Patriot, No. XIII.\r\n  The Covent-Garden Journal, Nos. X., XXXIII.\r\n \
+  \ Familiar Letter"
+title: "The Works of Henry Fielding\r\nEdited by George Saintsbury in 12 Volumes \
+  \ Volume 12"
+url: http://www.gutenberg.org/ebooks/6828
