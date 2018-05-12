@@ -1,4 +1,5 @@
 _repo: The-Works-of-Henry-Fielding-Edited-by-George-Saintsbury-in-12-Volumes-Volume-12_6828
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,6 +10,9 @@ contributor:
       gutenberg_agent_id: '4608'
       url: http://www.gutenberg.org/2009/agents/4608
       wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fielding, Henry
@@ -24,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/537
     wikipedia: http://en.wikipedia.org/wiki/Henry_Fielding
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6828#The-Works-of-Henry-Fielding-Edited-by-George-Saintsbury-in-12-Volumes-Volume-12
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
